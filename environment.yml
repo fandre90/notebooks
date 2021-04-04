@@ -1,0 +1,8 @@
+
+name: notebooks-environment
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - matplotlib
+  - requests
